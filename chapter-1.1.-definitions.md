@@ -20,7 +20,7 @@ Evans’ Domain-Driven Design further defines a few common terms that are useful
 >
 > — Blue Book
 
-To describe the domain, developers, architects,domain experts \(someone with the knowledge and skills in a particular domain who will work closely with you as you develop the domain model to ensure that you fully understand the business model before trying to represent it in code\), and anyone else involved in a project have to speak the same language, this in DDD methodology is called Ubiquitous language.
+Developers, architects, domain experts \(someone with the knowledge and skills in a particular domain who will work closely with you as you develop the domain model to ensure that you fully understand the business model before trying to represent it in code\), and anyone else involved in a project have to speak the same language to describe the domain, this is called Ubiquitous language in domain-driven design.
 
 ## Context
 
