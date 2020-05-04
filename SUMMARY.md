@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Think DDD: A book on real world example for domain-driven design](README.md)
 
